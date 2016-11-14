@@ -12,6 +12,6 @@ Créer un repository Git simple contenant :
 
 Je suis une formation en développement web sur [Simplonline](http://simplonline.co/).  
 J'ai choisi de vous présenter la construction du CV en ligne réalisé dans le cadre de la formation.  
-Pour en savoir plus, consultez le 2e fichier de ce repo intitulé "info-cv-online"  !  
+Pour en savoir plus, consultez le 2e fichier de ce repo intitulé "infos-cv-online.md"  !  
   
 Merci !
